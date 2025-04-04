@@ -1,5 +1,3 @@
-import Pagination from "@/app/ui/invoices/pagination";
-import Search from "@/app/ui/search";
 import CustomersTable from "@/app/ui/customers/table";
 import { InvoicesTableSkeleton } from "@/app/ui/skeletons";
 import { Suspense } from "react";
